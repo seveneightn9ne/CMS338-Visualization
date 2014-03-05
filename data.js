@@ -210,7 +210,7 @@ window.sweet_data = {
     },
     {
       "author": "Chanan",
-      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-in-practice-jane-chapman.html?view=classic",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/the-politics-of-documentary-michael.html?view=classic",
       "elements": [
         "style",
         "artistic",
