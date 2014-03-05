@@ -126,20 +126,6 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Hogarth",
-      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/realer-than-reel-david-hogarth-2006.html?view=classic",
-      "elements": [
-        "technology",
-        "social-political"
-      ],
-      "metas": [
-        "loose"
-      ],
-      "intentions": [
-        "persuasive"
-      ]
-    },
-    {
     "author": "Ellis",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-witness-and-self-revelation.html?view=classic",
       "elements": [
