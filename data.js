@@ -79,7 +79,7 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Ellis, Betsy",
+    "author": "Ellis, McLane",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/a-new-history-of-documentary-film-jack.html?view=classic",
       "elements": [
         "facts",
