@@ -39,7 +39,7 @@ window.sweet_data = {
     },
     {
       "author": "Hediger, Vonderau",
-      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/?view=classic",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/fils-that-work-vinzenz-hediger-and.html?view=classic",
       "elements": [
         "style"
       ],
