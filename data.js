@@ -64,7 +64,7 @@ window.sweet_data = {
         "deliberate"
       ]
     },
->>>    {
+    {
       "author": "Hampe",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/making-documentary-films-and-reality.html?view=classic",
       "elements": [
@@ -188,6 +188,240 @@ window.sweet_data = {
         "observational"
       ]
     },
-
+    {
+      "author": "Chu",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/chinese-documentaries-yingchi-chu-2007.html?view=classic",
+      "elements": [
+        "social-political",
+        "technology",
+        "facts"
+      ],
+      "metas": [
+        "strict"
+      ],
+      "intentions": [
+        "objective",
+        "factual",
+        "observational",
+        "deliberate"
+      ]
+    },
+    {
+      "author": "Campbell",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/the-documentary-is-reality-observed.html?view=classic",
+      "elements": [
+        "social-political",
+        "style"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "observational",
+        "non-deliberate",
+        "poetic"
+      ]
+    },
+    {
+      "author": "Chanan",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-in-practice-jane-chapman.html?view=classic",
+      "elements": [
+        "style",
+        "artistic",
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "subjective",
+        "objective",
+        "deliberate",
+        "poetic"
+      ]
+    },
+    {
+      "author": "Chapman",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-in-practice-jane-chapman.html?view=classic",
+      "elements": [
+        "facts",
+        "style",
+        "artistic"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "poetic",
+        "subjective",
+        "factual"
+      ]
+    },
+    {
+      "author": "Warren",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/beyond-document-charles-warren-1996.html?view=classic",
+      "elements": [
+        "technology",
+        "facts",
+        "artistic"
+      ],
+      "metas": [
+        "contradiction"
+      ],
+      "intentions": [
+        "factual",
+        "objective",
+        "deliberate"
+      ]
+    },
+    {
+      "author": "Nichols",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/blurred-boundaries-nichols-1994.html?view=classic",
+      "elements": [
+        "facts",
+        "artistic",
+        "social-political"
+      ],
+      "metas": [
+        "contradictory",
+        "loose"
+      ],
+      "intentions": [
+        "observational"
+      ]
+    },
+    {
+      "author": "Kahana",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/intelligence-work-politics-of-american.html?view=classic",
+      "elements": [
+        "facts",
+        "social-political",
+        "story",
+        "style"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "factual",
+        "poetic",
+        "subjective"
+      ]
+    },
+    {
+      "author": "Cowie",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/recording-reality-desiring-real.html?view=classic",
+      "elements": [
+        "artistic",
+        "facts"
+      ],
+      "metas": [
+        "contradictory",
+        "loose"
+      ],
+      "intentions": [
+        "subjective",
+        "objective"
+        "factual",
+        "deliberate",
+        "non-deliberate"
+      ]
+    },
+    {
+      "author": "Bloom",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/french-colonial-documentary-peter-j.html?view=classic",
+      "elements": [
+        "facts",
+        "social-political",
+        "technology"
+      ],
+      "metas": [
+        "strict"
+      ],
+      "intentions": [
+        "factual",
+        "observational",
+        "objective"
+      ]
+    },
+    {
+      "author": "Kriger",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/animated-realism-judith-kriger-2012.html?view=classic",
+      "elements": [
+        "facts",
+        "story",
+        "artistic"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "factual",
+        "poetic",
+        "subjective",
+        "observational"
+      ]
+    },
+    {
+      "author": "Boon",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/films-of-fact-timothy-boon-2008.html?view=classic",
+      "elements": [
+        "facts",
+        "style"
+      ],
+      "metas": [
+        "strict"
+      ],
+      "intentions": [
+        "subjective",
+        "deliberate"
+      ]
+    },
+    {
+      "author": "Renov",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/theorizing-documentary-michael-renov.html?view=classic",
+      "elements": [
+        "artistic",
+        "facts"
+      ],
+      "metas": [
+        "contradictory"
+      ],
+      "intentions": [
+        "subjective",
+        "poetic",
+        "factual"
+      ]
+    },
+    {
+      "author": "Kuo",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/migration-documentary-films-liangwen.html?view=classic",
+      "elements": [
+        "social-political"
+        "artistic",
+        "facts"
+      ],
+      "metas": [
+        "contradictory"
+      ],
+      "intentions": [
+        "subjective",
+        "poetic",
+        "factual"
+      ]
+    },
+    {
+      "author": "Bruzzi",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/new-documentary-stella-bruzzi-2000.html?view=classic",
+      "elements": [
+        "facts"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "factual",
+        "observational"
+      ]
+    }
   ]
 };
