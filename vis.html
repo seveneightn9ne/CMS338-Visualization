@@ -1,0 +1,74 @@
+<html>
+<head>
+<script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
+<script src="vis.js"></script>
+<style>
+body {
+    font-size: 18px;
+    font-family: sans-serif;
+    color: #333;
+}
+h2 {
+    text-align: center;
+}
+.description{
+    font-size: 10px;
+}
+.section {
+    width: 33%;
+    float: left;
+}
+.label {
+    display: block;
+    margin: 40px 20px;
+    padding: 20px;
+    border: dashed 1px red;
+
+}
+.section.author .label {
+    border-color: blue;
+}
+.blur {
+    color: #ddd;
+    border-color: #ddd;
+}
+.bold {
+    border-width: 2px;
+    color: #000;
+}
+</style>
+</head>
+
+<div class="section meta">
+<section class="meta">
+    <h2>Meta</h2>
+    <span class="label is-meta1 tags-cat1 tags-qual1"> Meta 
+    <span class="description">Description</span>
+    </span> <span class="label is-meta2 tags-cat2 tags-qual1 tags-qual2"> Meta 
+    <span class="description">Description</span></span> 
+</section>
+<section class="intentions">
+    <h2>Intentions</h2>
+    <span class="label is-meta1 tags-cat1 tags-qual1"> Intention
+    <span class="description">Description</span>
+    </span> <span class="label is-meta2 tags-cat2 tags-qual1 tags-qual2"> Intention 
+    <span class="description">Description</span></span> 
+</section>
+</div>
+
+<div class="section author">
+<h2>Authors</h2>
+<span class="label is-cat1 tags-meta1 tags-qual1"> Author 
+<span class="description">Description</span></span> <span class="label is-cat2 tags-meta2 tags-qual2 tags-qual1"> Author 
+<span class="description">Description</span></span> 
+</div>
+
+<div class="section quality">
+<h2>Elements</h2>
+<span class="label is-qual1 tags-cat1 tags-cat2 tags-meta1 tags-meta2"> Quality 
+<span class="description">Description</span></span> <span class="label is-qual2 tags-cat1 tags-cat2 tags-meta1 tags-meta2"> Quality 
+<span class="description">Description</span></span> 
+</div>
+
+<div id="descriptions">
+</html>
