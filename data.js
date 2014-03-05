@@ -104,7 +104,7 @@ window.sweet_data = {
         "argument"
       ],
       "metas": [
-        "contradiction"
+        "contradictory"
       ],
       "intentions": [
         "factual",
@@ -265,7 +265,7 @@ window.sweet_data = {
         "artistic"
       ],
       "metas": [
-        "contradiction"
+        "contradictory"
       ],
       "intentions": [
         "factual",
@@ -422,6 +422,6 @@ window.sweet_data = {
         "observational"
       ]
     }
- 
+
   ]
 };

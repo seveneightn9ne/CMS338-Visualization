@@ -4,9 +4,9 @@ $(document).ready(function(){
         $(".label").hover(function(){
             classes = $(this).attr("class").split(" ")
             $(this).find(".description").show()
-            for(i=0; i<classes.length; i++) {
+            for(var i=0; i<classes.length; i++) {
                 if (classes[i].indexOf("is-") == 0) {
-                    is = classes[i].substring(3)
+                    var is = classes[i].substring(3)
                 }
             }
             $(".label").each(function(){
@@ -19,7 +19,7 @@ $(document).ready(function(){
         }, function() {
             $(".label").removeClass("blur").removeClass("bold")
             $(this).find(".description").hide()
-        }) 
+        })
     })
 
 })
