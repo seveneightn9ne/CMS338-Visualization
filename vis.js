@@ -48,7 +48,11 @@ function load_data(data, callback) {
         object = $("<span>")
             .addClass("label")
             .addClass("is-"+author)
-            .html(author)
+            .append($("<a>")
+                .attr("href", post_url)
+                .attr("target", "_blank")
+                .html(author)
+            )
         for (var c = 0; c < 3; c++) {
             cat = categories[c]
             labels = data["blog_entries"][e][cat]
