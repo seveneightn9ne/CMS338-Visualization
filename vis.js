@@ -30,10 +30,10 @@ function load_data(data, callback) {
     categories = ["metas", "intentions", "elements"]
     for (var c = 0; c <3; c++) {
         cat = categories[c]
-        console.log(cat)
+        // console.log(cat)
         for (var e=0; e<data["all_"+cat].length; e++) {
             element = data["all_"+cat][e]
-            console.log(element)
+            // console.log(element)
             object = $("<span>")
                 .addClass("label")
                 .addClass("is-"+element)
@@ -59,10 +59,25 @@ function load_data(data, callback) {
             for (var l=0; l<labels.length; l++){
                 label = labels[l]
                 object.addClass("tags-"+label)
+                // console.log($(".is-"+label))
                 $(".is-"+label).addClass("tags-"+author)
+                for (var d=0; d<3; d++){
+                    cat2 = categories[d]
+                    for (var j=0; j<data["blog_entries"][e][cat2].length; j++) {
+                        label2 = data["blog_entries"][e][cat2][j]
+                        // console.log(object)
+                        // console.log($(".is-"+label2))
+                        // console.log("----------------")
+                        $(".is-"+label2).addClass("tags-"+label)
+                        if (!$(".is-"+label2)) {
+                            console.log("Can't find element: .is-"+label2)
+                        }
+                    }
+                }
+
             }
         }
-        $(".author").append(object)
+        $(".authors").append(object)
     }
     callback()
 

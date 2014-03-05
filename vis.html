@@ -3,68 +3,10 @@
 <script src="http://code.jquery.com/jquery-2.0.2.min.js"></script>
 <script src="data.js"></script>
 <script src="vis.js"></script>
-<style>
-body {
-    font-size: 18px;
-    font-family: sans-serif;
-    color: #333;
-}
-h2 {
-    text-align: center;
-    margin: 0 10px;
-    border-bottom: dashed 1px #f22;
-    padding: 20px 0;
-}
-.description{
-    font-size: 10px;
-}
-.section {
-    width: 33%;
-    float: left;
-}
-.label {
-    display: block;
-    margin: 0 10px;
-    padding: 10px;
-    border-bottom: dashed 1px #f22;
-    transition: background-color 0.2s, color 0.2s;
-}
-.label a {
-    transition: background-color 0.2s, color 0.2s;
-}
-.label:first-child {
-    border-top: dashed 1px red;
-}
-.blur {
-    color: #ddd;
-    /*border-color: #ddd;*/
-}
-.blur a {
-    color: #ddd;a
-}
-.bold {
-    /*border-width: 2px;*/
-    /*padding: 8px;*/
-    color: #000;
-    background-color: #effaff;
-}
-.bold a {
-    color: #000;
-    background-color: #effaff;
-}
-a {
-    color: #333;
-    text-decoration: none;
-}
-/*.section.author {
-    height: 600px;
-    overflow-y: scroll;
-}
-*/
-</style>
+<link rel="stylesheet" href="vis.css">
 </head>
 
-<div class="section">
+<div class="section left">
 <section class="metas">
     <h2>Meta</h2>
 <!--     <span class="label is-meta1 tags-cat1 tags-qual1"> Meta
@@ -83,9 +25,11 @@ a {
 
 <div class="section author">
 <h2>Authors</h2>
+<div class="authors">
 <!-- <span class="label is-cat1 tags-meta1 tags-qual1"> Author
 <span class="description">Description</span></span> <span class="label is-cat2 tags-meta2 tags-qual2 tags-qual1"> Author
 <span class="description">Description</span></span>  -->
+</div>
 </div>
 
 <div class="section elements">
