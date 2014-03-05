@@ -320,13 +320,12 @@ window.sweet_data = {
       ],
       "intentions": [
         "subjective",
-        "objective"
+        "objective",
         "factual",
         "deliberate",
         "non-deliberate"
       ]
-    },
-    {
+    },{
       "author": "Bloom",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/french-colonial-documentary-peter-j.html?view=classic",
       "elements": [
@@ -396,7 +395,7 @@ window.sweet_data = {
       "author": "Kuo",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/migration-documentary-films-liangwen.html?view=classic",
       "elements": [
-        "social-political"
+        "social-political",
         "artistic",
         "facts"
       ],
@@ -423,5 +422,6 @@ window.sweet_data = {
         "observational"
       ]
     }
+ 
   ]
 };
