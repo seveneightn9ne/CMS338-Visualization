@@ -261,6 +261,19 @@ window.sweet_data = {
     },
     {
       "author": "Nichols",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/introduction-to-documentary-bill.html?view=classic",
+      "elements": [
+        "story"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "non-deliberate"
+      ]
+    },
+    {
+      "author": "Nichols",
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/blurred-boundaries-nichols-1994.html?view=classic",
       "elements": [
         "facts",
