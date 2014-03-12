@@ -435,6 +435,26 @@ window.sweet_data = {
       "intentions": [
         "factual"
       ]
+    },
+    {
+      "author": "Aufderheide",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/documentary-film-very-short.html?view=classic",
+      "elements": [
+        "facts",
+        "social-political",
+        "technology",
+        "story",
+        "style",
+        "artistic"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "factual",
+        "poetic",
+        "observational"
+      ]
     }
   ]
 };
