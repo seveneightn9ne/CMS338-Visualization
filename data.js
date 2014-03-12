@@ -420,7 +420,21 @@ window.sweet_data = {
         "factual",
         "observational"
       ]
+    },
+    {
+      "author": "Winston",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/brian-winston-claiming-real-documentary.html?view=classic",
+      "elements": [
+        "facts",
+        "social-political",
+        "technology"
+      ],
+      "metas": [
+        "loose"
+      ],
+      "intentions": [
+        "factual"
+      ]
     }
-
   ]
 };
