@@ -455,6 +455,39 @@ window.sweet_data = {
         "poetic",
         "observational"
       ]
+    },
+    {
+      "author": "Lewis",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/the-documentary-tradition-lewis-1979.html?view=classic",
+      "elements": [
+        "facts",
+        "social-political",
+        "style",
+        "artistic"
+      ],
+      "metas": [
+        "strict"
+      ],
+      "intentions": [ 
+        "factual",
+        "poetic",
+        "deliberate"
+      ]
+    },
+    {
+      "author": "Barsam",
+      "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/nonfiction-film-theory-and-criticism.html?view=classic",
+      "elements": [
+        "social-political",
+        "argument"
+      ],
+      "metas": [
+        "strict"
+      ],
+      "intentions": [ 
+        "factual",
+        "observational"
+      ]
     }
   ]
 };
