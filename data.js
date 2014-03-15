@@ -83,8 +83,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Ellis, McLane",
-    "year": 2005,
+      "author": "Ellis, McLane",
+      "year": 2005,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/a-new-history-of-documentary-film-jack.html?view=classic",
       "elements": [
         "facts",
@@ -101,8 +101,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Beattie",
-    "year": 2004,
+      "author": "Beattie",
+      "year": 2004,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-screens-keith-beattie-2004.html?view=classic",
       "elements": [
         "facts",
@@ -118,8 +118,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Hogarth",
-    "year": 2006,
+      "author": "Hogarth",
+      "year": 2006,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/realer-than-reel-david-hogarth-2006.html?view=classic",
       "elements": [
         "technology",
@@ -133,8 +133,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Ellis",
-    "year": 2012,
+      "author": "Ellis",
+      "year": 2012,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-witness-and-self-revelation.html?view=classic",
       "elements": [
         "argument",
@@ -153,8 +153,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Benyahia",
-    "year": 2007,
+      "author": "Benyahia",
+      "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/teaching-film-and-tv-documentary-sarah.html?view=classic",
       "elements": [
         "facts",
@@ -170,8 +170,8 @@ window.sweet_data = {
       ]
     },
     {
-    "author": "Macdonald, Cousins",
-    "year": 1996,
+      "author": "Macdonald, Cousins",
+      "year": 1996,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/imagining-reality-kevin-macdonald-and.html?view=classic",
       "elements": [
         "story"
