@@ -76,3 +76,9 @@ a {
 #about a {
     color: #3F3FFB;
 }
+
+#instructions {
+    text-align: center;
+    font-size: 12pt;
+    color: #777;
+}
