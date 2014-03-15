@@ -26,6 +26,7 @@ window.sweet_data = {
   "blog_entries": [
     {
       "author": "Fitzsimons, Laughren, Williamson",
+      "year": 2011,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/australizan-documentary-trish.html?view=classic",
       "elements": [
         "artistic",
@@ -39,6 +40,7 @@ window.sweet_data = {
     },
     {
       "author": "Hediger, Vonderau",
+      "year": 2009,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/fils-that-work-vinzenz-hediger-and.html?view=classic",
       "elements": [
         "style"
@@ -53,6 +55,7 @@ window.sweet_data = {
     },
     {
       "author": "Goldsmith",
+      "year": 2003,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/whatever-current-definition-there.html?view=classic",
       "elements": [
         "facts"
@@ -66,6 +69,7 @@ window.sweet_data = {
     },
     {
       "author": "Hampe",
+      "year": 1997,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/making-documentary-films-and-reality.html?view=classic",
       "elements": [
         "technology"
@@ -80,6 +84,7 @@ window.sweet_data = {
     },
     {
     "author": "Ellis, McLane",
+    "year": 2005,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/a-new-history-of-documentary-film-jack.html?view=classic",
       "elements": [
         "facts",
@@ -97,6 +102,7 @@ window.sweet_data = {
     },
     {
     "author": "Beattie",
+    "year": 2004,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-screens-keith-beattie-2004.html?view=classic",
       "elements": [
         "facts",
@@ -113,6 +119,7 @@ window.sweet_data = {
     },
     {
     "author": "Hogarth",
+    "year": 2006,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/realer-than-reel-david-hogarth-2006.html?view=classic",
       "elements": [
         "technology",
@@ -127,6 +134,7 @@ window.sweet_data = {
     },
     {
     "author": "Ellis",
+    "year": 2012,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-witness-and-self-revelation.html?view=classic",
       "elements": [
         "argument",
@@ -146,6 +154,7 @@ window.sweet_data = {
     },
     {
     "author": "Benyahia",
+    "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/teaching-film-and-tv-documentary-sarah.html?view=classic",
       "elements": [
         "facts",
@@ -162,6 +171,7 @@ window.sweet_data = {
     },
     {
     "author": "Macdonald, Cousins",
+    "year": 1996,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/imagining-reality-kevin-macdonald-and.html?view=classic",
       "elements": [
         "story"
@@ -176,6 +186,7 @@ window.sweet_data = {
     },
     {
       "author": "Chu",
+      "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/chinese-documentaries-yingchi-chu-2007.html?view=classic",
       "elements": [
         "social-political",
@@ -194,6 +205,7 @@ window.sweet_data = {
     },
     {
       "author": "Campbell",
+      "year": 2011,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/the-documentary-is-reality-observed.html?view=classic",
       "elements": [
         "social-political",
@@ -210,6 +222,7 @@ window.sweet_data = {
     },
     {
       "author": "Chanan",
+      "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/the-politics-of-documentary-michael.html?view=classic",
       "elements": [
         "style",
@@ -227,6 +240,7 @@ window.sweet_data = {
     },
     {
       "author": "Chapman",
+      "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/documentary-in-practice-jane-chapman.html?view=classic",
       "elements": [
         "facts",
@@ -244,6 +258,7 @@ window.sweet_data = {
     },
     {
       "author": "Warren",
+      "year": 1996,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/beyond-document-charles-warren-1996.html?view=classic",
       "elements": [
         "technology",
@@ -261,6 +276,7 @@ window.sweet_data = {
     },
     {
       "author": "Nichols",
+      "year": 2010,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/introduction-to-documentary-bill.html?view=classic",
       "elements": [
         "story"
@@ -274,6 +290,7 @@ window.sweet_data = {
     },
     {
       "author": "Nichols",
+      "year": 1994,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/blurred-boundaries-nichols-1994.html?view=classic",
       "elements": [
         "facts",
@@ -290,6 +307,7 @@ window.sweet_data = {
     },
     {
       "author": "Kahana",
+      "year": 2008,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/intelligence-work-politics-of-american.html?view=classic",
       "elements": [
         "facts",
@@ -308,6 +326,7 @@ window.sweet_data = {
     },
     {
       "author": "Cowie",
+      "year": 2011,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/recording-reality-desiring-real.html?view=classic",
       "elements": [
         "artistic",
@@ -326,6 +345,7 @@ window.sweet_data = {
       ]
     },{
       "author": "Bloom",
+      "year": 2008,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/french-colonial-documentary-peter-j.html?view=classic",
       "elements": [
         "facts",
@@ -343,6 +363,7 @@ window.sweet_data = {
     },
     {
       "author": "Kriger",
+      "year": 2012,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/animated-realism-judith-kriger-2012.html?view=classic",
       "elements": [
         "facts",
@@ -361,6 +382,7 @@ window.sweet_data = {
     },
     {
       "author": "Boon",
+      "year": 2008,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/films-of-fact-timothy-boon-2008.html?view=classic",
       "elements": [
         "facts",
@@ -376,6 +398,7 @@ window.sweet_data = {
     },
     {
       "author": "Renov",
+      "year": 1993,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/theorizing-documentary-michael-renov.html?view=classic",
       "elements": [
         "artistic",
@@ -392,6 +415,7 @@ window.sweet_data = {
     },
     {
       "author": "Kuo",
+      "year": 2010,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/migration-documentary-films-liangwen.html?view=classic",
       "elements": [
         "social-political",
@@ -409,6 +433,7 @@ window.sweet_data = {
     },
     {
       "author": "Bruzzi",
+      "year": 2000,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/02/new-documentary-stella-bruzzi-2000.html?view=classic",
       "elements": [
         "facts"
@@ -423,6 +448,7 @@ window.sweet_data = {
     },
     {
       "author": "Winston",
+      "year": 2008,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/brian-winston-claiming-real-documentary.html?view=classic",
       "elements": [
         "facts",
@@ -438,6 +464,7 @@ window.sweet_data = {
     },
     {
       "author": "Aufderheide",
+      "year": 2007,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/documentary-film-very-short.html?view=classic",
       "elements": [
         "facts",
@@ -458,6 +485,7 @@ window.sweet_data = {
     },
     {
       "author": "Lewis",
+      "year": 1979,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/the-documentary-tradition-lewis-1979.html?view=classic",
       "elements": [
         "facts",
@@ -468,7 +496,7 @@ window.sweet_data = {
       "metas": [
         "strict"
       ],
-      "intentions": [ 
+      "intentions": [
         "factual",
         "poetic",
         "deliberate"
@@ -476,6 +504,7 @@ window.sweet_data = {
     },
     {
       "author": "Barsam",
+      "year": 1992,
       "post_url": "http://johngriersonhasalottoanswerfor.blogspot.com/2014/03/nonfiction-film-theory-and-criticism.html?view=classic",
       "elements": [
         "social-political",
@@ -484,7 +513,7 @@ window.sweet_data = {
       "metas": [
         "strict"
       ],
-      "intentions": [ 
+      "intentions": [
         "factual",
         "observational"
       ]
